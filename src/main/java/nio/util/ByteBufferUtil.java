@@ -1,4 +1,4 @@
-package netty.util;
+package nio.util;
 
 import io.netty.util.internal.MathUtil;
 import io.netty.util.internal.StringUtil;

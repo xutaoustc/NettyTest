@@ -1,6 +1,6 @@
-package netty.c4;
+package nio.c4;
 
-import netty.util.ByteBufferUtil;
+import nio.util.ByteBufferUtil;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
